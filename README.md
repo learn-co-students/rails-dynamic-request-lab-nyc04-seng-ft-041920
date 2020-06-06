@@ -1,18 +1,16 @@
 # Rails Dynamic Request Lab
 
-
 ## Objectives
 
-* Draw a route with a dynamic variable
+- Draw a route with a dynamic variable
 
-* Use a routes variable in params within the logic of an action
+- Use a routes variable in params within the logic of an action
 
-* Assign an instance variable in a controller action
+- Assign an instance variable in a controller action
 
-* Use a controller instance variable to generate a dynamic ERB template.
+- Use a controller instance variable to generate a dynamic ERB template.
 
-* Build a classical show action/view
-
+- Build a classical show action/view
 
 ## Instructions
 
@@ -24,16 +22,16 @@ In this lab, you will work through the full MVC pattern by building a student ma
 
 2. The application should render the values from the `student` record in the database
 
-
 ## Keys to remember
 
-* Make sure that you use a route variable for the `show` request path
+- Make sure that you use a route variable for the `show` request path
 
-* If you google around and discover generators/scaffolds, **don't use them** for this lab
+- If you google around and discover generators/scaffolds, **don't use them** for this lab
 
 ## Resources
-* [Documentation](http://api.rubyonrails.org/classes/ActionDispatch/Routing.html)
 
-* [Reading](https://github.com/learn-co-curriculum/rails-dynamic-request-readme)
+- [Documentation](http://api.rubyonrails.org/classes/ActionDispatch/Routing.html)
+
+- [Reading](https://github.com/learn-co-curriculum/rails-dynamic-request-readme)
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/rails-dynamic-request-lab' title='Rails Dynamic Request Lab'>Rails Dynamic Request Lab</a> on Learn.co and start learning to code for free.</p>
